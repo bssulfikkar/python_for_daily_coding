@@ -1,0 +1,16 @@
+INFO:2022-10-23 22:22:28,629:__main__:Created Employee: John Smith - John.Smith@email.com
+INFO:2022-10-23 22:22:28,629:__main__:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:2022-10-23 22:22:45,775:logging_emp:Created Employee: John Smith - John.Smith@email.com
+INFO:2022-10-23 22:22:45,775:logging_emp:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:2022-10-23 22:24:12,916:logging_emp:Created Employee: John Smith - John.Smith@email.com
+INFO:2022-10-23 22:24:12,916:logging_emp:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:2022-10-23 22:24:18,722:logging_emp:Created Employee: John Smith - John.Smith@email.com
+INFO:2022-10-23 22:24:18,722:logging_emp:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:2022-10-23 22:26:28,311:logging_emp:Created Employee: John Smith - John.Smith@email.com
+INFO:2022-10-23 22:26:28,311:logging_emp:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:2022-10-23 22:27:53,169:logging_emp:Created Employee: John Smith - John.Smith@email.com
+INFO:2022-10-23 22:27:53,169:logging_emp:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:2022-10-23 22:29:51,134:logging_emp:Created Employee: John Smith - John.Smith@email.com
+INFO:2022-10-23 22:29:51,134:logging_emp:Created Employee: Corey Schafer - Corey.Schafer@email.com
+INFO:2022-10-23 22:30:57,352:logging_emp:Created Employee: John Smith - John.Smith@email.com
+INFO:2022-10-23 22:30:57,352:logging_emp:Created Employee: Corey Schafer - Corey.Schafer@email.com

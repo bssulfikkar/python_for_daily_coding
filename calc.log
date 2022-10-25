@@ -1,0 +1,20 @@
+DEBUG:2022-10-23 22:22:45,775:__main__:Add: 20 + 4 = 80
+DEBUG:2022-10-23 22:22:45,775:__main__:Sub: 20 - 4 = 16
+DEBUG:2022-10-23 22:22:45,775:__main__:Multi: 20 * 4 = 80
+DEBUG:2022-10-23 22:22:45,775:__main__:Div: 20 / 4 = 5.0
+ERROR:2022-10-23 22:26:28,312:__main__:Tried to Divide by zero
+ERROR:2022-10-23 22:27:53,170:__main__:Tried to Divide by zero
+Traceback (most recent call last):
+  File "/Users/sbshy/PycharmProjects/python_testing_best_practices/logging_cacl.py", line 29, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+ERROR:2022-10-23 22:29:51,135:__main__:Tried to Divide by zero
+Traceback (most recent call last):
+  File "/Users/sbshy/PycharmProjects/python_testing_best_practices/logging_cacl.py", line 32, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+ERROR:2022-10-23 22:30:57,352:__main__:Tried to Divide by zero
+Traceback (most recent call last):
+  File "/Users/sbshy/PycharmProjects/python_testing_best_practices/logging_cacl.py", line 34, in divide
+    result = x / y
+ZeroDivisionError: division by zero
